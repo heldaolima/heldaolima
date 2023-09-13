@@ -8,10 +8,6 @@
 ### Contact me:
 - 📧 orfeowrk@gmail.com
 
-![Hélder's GitHub stats](https://github-readme-stats.vercel.app/api?username=heldaolima&show=prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heldaolima&layout=compact&theme=radical)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heldaolima&show=prs_merged,prs_merged_percentage&show_icons=true&theme=radical" />
 </a>
