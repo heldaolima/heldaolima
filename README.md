@@ -1,12 +1,12 @@
 # Hélder Lima
 
 ### Hi there 👋
-- 💻 Computer Science student at Federal University of Alagoas
-- 🌐 Full Stack Developer at LaCCAN
-- 🔭 I’m currently interested on Combinatorial Optmization!
+- 💻 Computer Science bachelor at Federal University of Alagoas
+- 🌐 Full Stack Developer at Orion
+- 🔭 Django | NestJS | Node.js | C++ | Go
 
 ### Contact me:
-- 📧 orfeowrk@gmail.com
+- 📧 0helder.lima.dev@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heldaolima&show=prs_merged,prs_merged_percentage&show_icons=true&theme=radical" />
