@@ -28,11 +28,7 @@ I'm a **Computer Science graduate** from the Federal University of Alagoas with 
 ---
 
 ## 📈 GitHub Activity & Contributions
-
-<div align="center">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=heldaolima&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heldaolima&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heldaolima)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
