@@ -1,39 +1,29 @@
 # 👨‍💻 Hélder Lima
 
-> Full Stack Developer | Backend Specialist | Open Source Enthusiast
+Full Stack Developer | Backend Specialist | Open Source Enthusiast
 
 ---
 
 ## 🌟 About Me
 
-I'm a **Computer Science graduate** from the Federal University of Alagoas with a passion for building scalable, high-performance applications. Currently working as a **Full Stack Developer at Orion**, I specialize in designing robust backend systems and creating seamless user experiences across the web stack.
+I'm a **Computer Science graduate** from the Federal University of Alagoas with a passion for building scalable, high-performance applications. Currently working as a **Full Stack Developer**, I specialize in designing robust backend systems and creating seamless user experiences across the web stack.
 
 **What drives me:** Clean code, architectural excellence, and solving real-world problems through technology.
-
----
-
-## 💼 Professional Experience
-
-**Full Stack Developer @ Orion**
-- Building and maintaining full-stack applications using modern frameworks
-- Architecting backend services with Django, NestJS, and Node.js
-- Collaborating with cross-functional teams to deliver enterprise solutions
 
 ---
 
 ## 🛠️ Technical Arsenal
 
 ### Backend & Server-Side
-- **Python**: Django, Flask, FastAPI
+- **Python**: Spring, Django, Flask, FastAPI
 - **JavaScript/TypeScript**: NestJS, Node.js, Express.js
 - **Systems**: C++, Go (performance-critical applications)
 
 ### Areas of Expertise
-- 🔐 API Design & Development
-- 📊 Database Architecture & Optimization
-- 🚀 Microservices & Scalable Systems
-- 🔄 CI/CD & DevOps
 - 📱 Full Stack Web Development
+- API Design & Development
+- Database Architecture & Optimization
+- Metaheuristics for NP-complete problems
 
 ---
 
