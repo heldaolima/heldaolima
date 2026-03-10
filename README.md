@@ -1,12 +1,12 @@
 # 👨‍💻 Hélder Lima
 
-Full Stack Developer | Backend Specialist | Open Source Enthusiast
+Full Stack Developer | Backend Specialist | Optmization Researcher
 
 ---
 
 ## 🌟 About Me
 
-I'm a **Computer Science graduate** from the Federal University of Alagoas with a passion for building scalable, high-performance applications. Currently working as a **Full Stack Developer**, I specialize in designing robust backend systems and creating seamless user experiences across the web stack.
+I'm a **Computer Science graduate** from the Federal University of Alagoas with a passion for building scalable, high-performance applications. Currently working as a **Full Stack Developer**, I specialize in designing robust backend systems and creating seamless user experiences across the web stack. I'm also a researcher in the field of Optmization through Metaheuristics for NP-complete problems.
 
 **What drives me:** Clean code, architectural excellence, and solving real-world problems through technology.
 
